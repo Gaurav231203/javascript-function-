@@ -1,4 +1,4 @@
-//fat arrow func hai or humesha ye expression aky andar hoga
+//fat arrow func hai or humesha ye variable  ky andar hoga
 
 
 let fun1=()=>{
