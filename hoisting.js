@@ -6,3 +6,7 @@
   function abc(a,b){
     return a+b;
   }
+//hoisting  works only in declaration 
+//but it wont work in fucntion expression or variable expression
+// so hoisting is only for function declaration and variable declaration 
+// but not  work in arrow function and variable expression
