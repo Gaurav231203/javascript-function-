@@ -18,9 +18,9 @@ console.log(add(10,20));*/
 }
 console.log(add(10,20));*/
 
-function add(){
-   return  12;
+function add( b){
+   return  12 + b;
 
 }
-let val=add();
+let val=add(5);
 console.log(val);
