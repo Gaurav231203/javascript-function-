@@ -1,5 +1,5 @@
 //first class function means function ko hum variable kay andar store kar sakte hai or usko hum as a parameter bhej sakte hai or return bhi kar sakte hai
-//or hum function ko values ki tarah use kar sakte hai
+//or hum function ko values ki tarah use / tret kar sakte hai
 /* function abc(val){
      
     val();
