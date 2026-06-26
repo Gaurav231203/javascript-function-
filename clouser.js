@@ -1,6 +1,5 @@
-/* clouser is a function jo ki retun kare ek orr function or return 
-hone wala function humesha use karega parent function ka koi variable 
-yaa fir parent function ka koi parameter ko use karega*/
+/* clouser is a function jo ki retun kare ek orr function or 
+an dar wala function bahr wale function ki value ko use kre*/
  let fun=function(){
   let a=10;
     return function(){
