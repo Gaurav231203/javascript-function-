@@ -2,11 +2,15 @@
  krr sakte hai or usko use bhi krr sakte hai or ye sirf function or variable ke liye hi hota hai
   or ye function ke andar hi hota hai*/
 
-  console.log(abc(10,20)); //undefined
+ /* console.log(abc(10,20)); //undefined
   function abc(a,b){
     return a+b;
-  }
+  }*/
 //hoisting  works only in declaration 
 //but it wont work in fucntion expression or variable expression
 // so hoisting is only for function declaration and variable declaration 
 // but not  work in arrow function and variable expression
+abc()
+ var abc=function (){
+  console.log("hii")
+ };
